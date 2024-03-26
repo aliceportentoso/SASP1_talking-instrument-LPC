@@ -1,8 +1,3 @@
-# DAAP Homework 1
-# students and students code:
-# Chiara Lunghi     233195
-# Alice Portentoso  232985
-
 import numpy as np
 import wave
 from scipy.linalg import toeplitz
