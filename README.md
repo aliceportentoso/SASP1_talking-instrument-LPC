@@ -1,4 +1,5 @@
-## Sound Analysis, Synthesis and Processing - Homework 1
+### Music and Acoustic Engineering - Politecnico di Milano 
+## Sound Analysis, Synthesis and Processing 2023 - Homework 1
 # Talking Instrument using Linear Predictive Coding
 
 For this homework assignment, you will be exploring the topic of Linear Predictive Coding (LPC) and implementing a Talking Instrument using LPC-based cross-synthesis. You will be provided with a test speech signal (speech.wav), a monophonic piano track (piano.wav), and an exemplary processed clip for reference (expected_result.wav). <br><br>
